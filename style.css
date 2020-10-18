@@ -251,7 +251,7 @@ body,
 	background-color: #222;
 }
 #leftSide.color{
-	background-image: url(https://tympanus.net/Development/AnimatedHeaderBackgrounds/img/demo-1-bg.jpg);
+	background-image: url(img/bg.jpg);
 	background-size: cover;
 	background-position: center center;
 }
@@ -274,7 +274,6 @@ body,
 }
 canvas{
 	position: absolute;
-	/*opacity: 0.2;*/
 	position: absolute;
 	display: block;
 	width: 100%;
@@ -354,20 +353,6 @@ h3.pacifico{
 .close-bar{
 	position: absolute;
 }
-
-/*#home .h-content h3{
-	font-family: "brandon-grotesque";
-	font-size: 25px;
-	font-style: normal;
-}
-#home .h-content h1,
-#subs,
-#info{
-	font-family: "brandon-grotesque";
-}
-#home .h-content h1{
-	font-size: 45px;
-}*/
 
 #contact_form .input-submit{
 	font-size: 14px;
